@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Java](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
+
 <!--
 **AntGiRe/AntGiRe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

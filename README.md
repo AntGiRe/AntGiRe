@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I am a student in 42Málaga.
+[![agil-rey's 42 stats](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/stats?cursusId=21&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
+
 ---
 
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)

@@ -13,11 +13,19 @@
 ## 🐱‍💻 Skill list
 
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
+![Phyton](https://img.shields.io/badge/Phyton-323330?style=for-the-badge&logo=phyton&logoColor=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=777BB4)
 ![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![BASH](https://img.shields.io/badge/SHELL-323330?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+<br><br>
+![VSCode](https://img.shields.io/badge/VSCode-121211?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-121211?style=for-the-badge&logo=eclipseide&logoColor=2C2255)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-121211?style=for-the-badge&logo=intellijidea&logoColor=#000000)
+![XAMPP](https://img.shields.io/badge/XAMPP-121211?style=for-the-badge&logo=xampp&logoColor=#000000)
+![MySQL](https://img.shields.io/badge/MYSQL-121211?style=for-the-badge&logo=mysql&logoColor=#4479A1)
 
 **🔋 Hard drive still has space**
 ```Java

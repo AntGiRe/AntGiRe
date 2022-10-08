@@ -8,7 +8,7 @@
 
 📍  I live in a hot sunny place.
 
-🚀 I love to learn and improve myself
+🚀 I love to learn and improve myself.
 
 ## 🐱‍💻 Skill list
 
